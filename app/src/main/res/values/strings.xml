@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="question2">What team won the premier league without any defeat? They are now know as the invincibles</string>
+    <string name="arsenal">Arsenal</string>
+    <string name="liverpool">Liverpool</string>
+    <string name="manutd">Manchester United</string>
+    <string name="mancity">Manchester City</string>
+    <string name="salah">Mohamed salah</string>
+    <string name="vvd">Virgil van djik</string>
+    <string name="auba">Aubameyang</string>
+    <string name="mane">Sadio Mane</string>
+    <string name="sergio">Sergio Aguero</string>
+    <string name="question1">Who is Premier league all time top goal scorer?</string>
+    <string name="title">Premier League Quiz</string>
+    <string name="finalQuestion">The club with the most Premier League titles </string>
+    <string name="chelsea">Chelsea</string>
+    <string name="question3">Season 2018-2019 had three joint top goal scorers with 22 each, check all of them</string>
+
+</resources>
